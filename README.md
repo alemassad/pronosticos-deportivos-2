@@ -1,8 +1,7 @@
 # TP nº2 Pronósticos Deportivos
 
 *** Grupo 6 de la comisión 152 UTN
-***
- Grupo 6 de la comisión 152 UTN
+
 ****
 Profesor: Marcelo Moscuzza
 *****
