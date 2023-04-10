@@ -7,10 +7,15 @@ Grupo 6 de la comisión 152 UTN
 Profesor: Marcelo Moscuzza
 *****
 Integrantes:
+
 Dominguez, Alejandro;
+
 Vazquez, Daniela Andrea;
+
 Ledesma, Cecilia;
+
 Massad, Luis Alejandro;
+
 Montenegro, Oscar.
 ******
 Para esta segunda entrega:  
