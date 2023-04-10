@@ -1,14 +1,17 @@
 # TP nº2 Pronósticos Deportivos
 
-*** Grupo 6 de la comisión 152 UTN
+***
+Grupo 6 de la comisión 152 UTN
 
 ****
 Profesor: Marcelo Moscuzza
 *****
 Integrantes:
-Dominguez, Alejandro;   
-Ledesma, Cecilia;  
-Massad, Luis Alejandro.
+Dominguez, Alejandro;
+Vazquez, Daniela Andrea;
+Ledesma, Cecilia;
+Massad, Luis Alejandro;
+Montenegro, Oscar.
 ******
 Para esta segunda entrega:  
 Se desarrolló un programa que crea y lee dos archivos CSV actualizados de  
